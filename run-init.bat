@@ -32,3 +32,4 @@ amplify init
 
 
 npm install aws-amplify @aws-amplify/ui-react
+
